@@ -117,6 +117,7 @@
   },
   "dependencies": {
     "@coinbase/wallet-sdk": "^3.3.0",
+    "@epnsproject/frontend-sdk-staging": "^1.8.5",
     "@fontsource/ibm-plex-mono": "^4.5.1",
     "@fontsource/inter": "^4.5.1",
     "@lingui/core": "^3.14.0",
